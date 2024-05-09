@@ -1,13 +1,12 @@
 title: Muhammad Davi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+  I'm a lecture in the <a href="https://github.com/JTIK-PNL">JTIK</a> at the Politeknik Negeri Lhokseumawe and a software developer. 
+  I'm interested in data mining, deep learning and software engineering.
   <br><br>
   <a href="https://www.linkedin.com/in/muhdavi/">View My LinkedIn Profile</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-148409350-1 # your Google Analytics tracking ID here
