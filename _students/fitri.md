@@ -1,5 +1,5 @@
 ---
-layout; student
+layout: student
 short_name: Fitri
 name: Fitri Ramadhani
 nim: 2024573010073
