@@ -1,7 +1,7 @@
 ---
 layout: student
-short_name: desi
-name: desi nabila sari
+short_name: Desi
+name: Desi Nabila Sari
 nim: 2024573010033
 class: TI-1E
 website: https://desynabilasari.github.io/
