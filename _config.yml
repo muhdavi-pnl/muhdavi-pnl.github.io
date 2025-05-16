@@ -1,1 +1,24 @@
-url: 'https://muhdavi-pnl.github.io'
+title: Muhammad Davi
+email: muhammad.davi@pnl.ac.id
+description: > # this means to ignore newlines until "baseurl:"
+    A personal blog by Muhammad Davi, a lecturer at Politeknik Negeri Lhokseumawe.
+    This blog is built using Jekyll and hosted on GitHub Pages.
+    The content is primarily in Indonesian, but some posts may be in English.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://muhdavi-pnl.github.io" # the base hostname & protocol for your site
+
+github_username:  muhdavi-pnl
+
+collections:
+  students:
+    output: true
+    permalink: /students/:name/
+    title: Students
+    description: List of students in the class.
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
