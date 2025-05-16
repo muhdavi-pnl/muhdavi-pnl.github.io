@@ -1,9 +1,10 @@
 ---
 layout: student
-short_name: Davi
-name: Muhammad Davi
-nim: 2024XXXXXX
-class: TI-1X
-website: https://muhdavi-pnl.github.io
+short_name: khairatil
+name: khairatil aini
+nim: 2024573010031
+class: TI-1c
+website: https://khairatilaini.github.io/
 ---
-Deskripsi diri yang lengkap disini.......
+saya berasal dari krung mane, sekarang saya kuliah di politeknik negeri lhokseumawe sebagai mahasiswa, saya mengambil jurasan teknologi informasi dan komputer.
+
