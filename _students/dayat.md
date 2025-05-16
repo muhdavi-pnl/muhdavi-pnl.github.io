@@ -6,4 +6,4 @@ nim: 2024573010072
 class: TI-1e
 website: https://dayat-yat.github.io/dayatyat.github.io
 ---
-Saya berasal dari Aceh Utara. Sekarang saya mahasiswa di Politeknik Negeri Lhokseumawe, jurusan TIK dan prodi Teknik Informatika. Umur saya sekarang 19 tahun dan hobi saya adalah GYM
+Saya berasal dari Aceh Utara.tanggal lahir 23-10-2005 Sekarang saya mahasiswa di Politeknik Negeri Lhokseumawe, jurusan TIK dan prodi Teknik Informatika. Umur saya sekarang 19 tahun dan hobi saya adalah GYM
