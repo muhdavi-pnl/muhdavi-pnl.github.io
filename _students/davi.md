@@ -1,10 +1,10 @@
 ---
 layout: student
-short_name: khairatil
-name: khairatil aini
-nim: 2024573010031
-class: TI-1c
-website: https://khairatilaini.github.io/
+short_name: Davi
+name: Muhammad Davi
+nim: 20245730100XX
+class: TI-1X
+website: https://muhdavi-pnl.github.io
 ---
-saya berasal dari krung mane, sekarang saya kuliah di politeknik negeri lhokseumawe sebagai mahasiswa, saya mengambil jurasan teknologi informasi dan komputer.
+Nama saya Firdhila Ananda Syahputri, biasanya di panggil Firdhila. Saya lahir di Lhokseumawe pada tanggal 18 Mei 2006. Saya merupakan mahasiswa semester 2 jurusan Teknologi Informasi dan Komputer prodi Teknik Informatika di Politeknik Negeri Lhokseumawe. 
 
