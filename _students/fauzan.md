@@ -1,7 +1,7 @@
 ---
 layout: student
 short_name: Fauzan
-  name: Muhammad Fauzan
+name: Muhammad Fauzan
 nim: 2024573010124
 class: TI-1E
 website: https://muhammadfauzan61.github.io
