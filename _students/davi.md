@@ -1,9 +1,14 @@
 ---
 layout: student
-short_name: Davi
-name: Muhammad Davi
-nim: 2024XXXXXX
-class: TI-1X
-website: https://muhdavi-pnl.github.io
+short_name: Izzati
+name: Izzati Nurvira
+nim: 2024573010005
+class: TI-1c
+website: https://izzati31.github.io/
 ---
-Deskripsi diri yang lengkap disini.......
+Saya berasal dari Sigli,
+    Sekarang Saya Tinggal DiAsrama Politeknik Negeri Lhokseumawe
+    Hobi Saya Memasak,Bernyanyi
+    Tanggal Lahir: 31 Mei 2007
+    Sekarang saya kuliah di politeknik negeri lhokseumawe,Jurusan Teknologi Informasi dan Komputer,Prodi Teknik Informatika, Kelas 1C.
+    
