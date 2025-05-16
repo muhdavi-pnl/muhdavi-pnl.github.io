@@ -1,5 +1,5 @@
 ---
-Layout: student
+layout: student
 short_name: Hayzar
 name: Hayzar Muhaiyar
 nim: 2024573010100
