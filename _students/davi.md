@@ -1,14 +1,9 @@
 ---
 layout: student
-short_name: Izzati
-name: Izzati Nurvira
-nim: 2024573010005
-class: TI-1c
-website: https://izzati31.github.io/
+short_name: Davi
+name: Muhammad Davi
+nim: 20245730100XX
+class: TI-1X
+website: https://muhdavi-pnl.github.io
 ---
-Saya berasal dari Sigli,
-    Sekarang Saya Tinggal DiAsrama Politeknik Negeri Lhokseumawe
-    Hobi Saya Memasak,Bernyanyi
-    Tanggal Lahir: 31 Mei 2007
-    Sekarang saya kuliah di politeknik negeri lhokseumawe,Jurusan Teknologi Informasi dan Komputer,Prodi Teknik Informatika, Kelas 1C.
-    
+Nama saya Firdhila Ananda Syahputri, biasanya di panggil Firdhila. Saya lahir di Lhokseumawe pada tanggal 18 Mei 2006. Saya merupakan mahasiswa semester 2 jurusan Teknologi Informasi dan Komputer prodi Teknik Informatika di Politeknik Negeri Lhokseumawe. 
