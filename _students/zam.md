@@ -1,6 +1,6 @@
 ---
 layout: student
-short_name: zam
+short_name: Zam
 name: Zamharira
 nim: 2024573010051
 class: TI-1E
