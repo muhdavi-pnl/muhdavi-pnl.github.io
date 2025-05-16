@@ -1,7 +1,7 @@
 ---
 layout: student
-short_name: akila
-name: syakila athaya aufa
+short_name: Akila
+name: Syakila Athaya Aufa
 nim: 2024573010053
 class: TI-1E
 website: https://athayaaufa18.github.io
