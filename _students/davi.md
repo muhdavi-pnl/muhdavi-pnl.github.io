@@ -1,9 +1,9 @@
 ---
 layout: student
-short_name: Maila
-name: Maila Aziza
-nim: 2024573010024
-class: TI-1C
-website: https://mailaazizaa.github.io
+short_name: Davi
+name: Muhammad Davi
+nim: 20245730100XX
+class: TI-1X
+website: https://muhdavi-pnl.github.io
 ---
-Halo, perkenalkan nama saya Maila Aziza. Saya lahir tanggal 17 Mei 2006 di Lhokseumawe. Saat ini saya menempuh pendidikan sebagai mahasiswa prodi Teknik Informatika jurusan Teknologi Informasi dan Komputer di Politeknik Negeri Lhokseumawe. 
+Nama saya Firdhila Ananda Syahputri, biasanya di panggil Firdhila. Saya lahir di Lhokseumawe pada tanggal 18 Mei 2006. Saya merupakan mahasiswa semester 2 jurusan Teknologi Informasi dan Komputer prodi Teknik Informatika di Politeknik Negeri Lhokseumawe. 
