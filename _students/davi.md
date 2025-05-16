@@ -1,9 +1,9 @@
 ---
 layout: student
-short_name: Bunga
-name: Bunga Alfa Zahrah
-nim: 2024573010023
-class: TI-1C
-website: https://github.com/Bunga-hub
+short_name: Davi
+name: Muhammad Davi
+nim: 20245730100XX
+class: TI-1X
+website: https://muhdavi-pnl.github.io
 ---
-Haloo! perkenalkan nama saya Bunga Alfa Zahrah,tempat dan tanggal lahir saya 19 April 2006 di Aceh Utara.Alamat saya di Buloh Blang Ara.Saya sekarang sedang menempuh perkuliahan di salah satu kampus di Lhokseumawe yaitu Politeknik Negeri Lhokseumawe pada jurusan Teknologi Informasi dan Komputer prodi D4 Teknik Informatika.
+Nama saya Firdhila Ananda Syahputri, biasanya di panggil Firdhila. Saya lahir di Lhokseumawe pada tanggal 18 Mei 2006. Saya merupakan mahasiswa semester 2 jurusan Teknologi Informasi dan Komputer prodi Teknik Informatika di Politeknik Negeri Lhokseumawe. 
