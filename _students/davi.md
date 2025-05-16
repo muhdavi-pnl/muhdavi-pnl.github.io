@@ -1,10 +1,10 @@
 ---
 layout: student
-short_name: Liza
-name: Liza Aulia Siregar
-nim: 2024573010002
-class: TI-1C
-website: https://lizaauliasiregar.github.io/
+short_name: Davi
+name: Muhammad Davi
+nim: 20245730100XX
+class: TI-1X
+website: https://muhdavi-pnl.github.io
 ---
-Deskripsi diri yang lengkap disini.......
-Saya Liza Aulia Siregar, biasa dipanggil LIza, berasal dari Tapanuli Selatan, Sumatera Utara. Tinggi saya 160 cm, dengan bb 53kg. Saya lahir pada 11 Mei 2006.
+Nama saya Firdhila Ananda Syahputri, biasanya di panggil Firdhila. Saya lahir di Lhokseumawe pada tanggal 18 Mei 2006. Saya merupakan mahasiswa semester 2 jurusan Teknologi Informasi dan Komputer prodi Teknik Informatika di Politeknik Negeri Lhokseumawe. 
+
