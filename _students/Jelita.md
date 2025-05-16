@@ -1,5 +1,5 @@
 ---
-layout: studen
+layout: student
 short_name: Jelita
 name: Jelita Anggraini
 nim: 2024573010015
