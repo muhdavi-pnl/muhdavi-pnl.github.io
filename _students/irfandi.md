@@ -1,7 +1,7 @@
 ---
 layout: student
-short_name: irfan
-name: irfandi
+short_name: Irfan
+name: Irfandi
 nim: 2024573010071
 class: TI-1C
 website: https://irfandi8.github.io
