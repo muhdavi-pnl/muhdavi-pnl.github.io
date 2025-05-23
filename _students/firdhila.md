@@ -1,3 +1,5 @@
+---
+layout: student
 short_name: Firdhila
 name: Firdhila Ananda Syahputri
 nim: 2024573010014
