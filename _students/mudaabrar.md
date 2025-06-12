@@ -6,4 +6,4 @@ nim: 2024573010140
 class: TI-1D
 website: https://mudaabrar.github.io/
 ---
-Deskripsi diri Halo,nama saya muda abrar berasal dari Kota Langsa, sekarang saya kuliah di politeknik Negeri Lhokseumawe sebagai mahasiswa semester 2.saya lahir 30/5/2006.
+Halo,nama saya muda abrar berasal dari Kota Langsa, sekarang saya kuliah di politeknik Negeri Lhokseumawe sebagai mahasiswa semester 2.saya lahir 30/5/2006.
