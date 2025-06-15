@@ -4,7 +4,7 @@ short_name: Alif
 name: Muhammad Alif Sidqi
 nim: 2024573010146
 class: TI-1D
-website: https://github.com/alfsdqi/alfsdqi.github.io.git
+website: https://alfsdqi.github.io
 ---
 ## Alif
 Aku berasal dari Kabupaten Aceh Utara, dan punya latar belakang dari SMK Desain Graphic. Di kampus, aku aktif belajar tentang pemrograman dan teknologi. Aku suka membuat program yang sederhana tapi berguna.
