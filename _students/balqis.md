@@ -1,7 +1,7 @@
 ---
 layout: student
 short_name: balqis 
-name: balqis misyia
+name: Balqis Misyia
 nim: 2024573010055
 class: TI-1D
 website: https://balqismisyia.github.io//
