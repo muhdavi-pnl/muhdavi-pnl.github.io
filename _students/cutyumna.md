@@ -1,4 +1,3 @@
-
 ---
 layout: student
 short_name: cut yumna 
