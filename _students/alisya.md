@@ -2,7 +2,7 @@
 ---
 layout: student
 short_name: Alisya 
-name: Alisya teriana
+name: Alisya Teriana
 nim: 2024573010021
 class: TI-1D
 website: https://alisyateriana.github.io
