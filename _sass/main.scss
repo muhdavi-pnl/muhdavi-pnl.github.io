@@ -68,6 +68,32 @@ nav {
     }
 }
 
+.blog-posts {
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
+    ul {
+        padding: 0;
+        margin: 0;
+    }
+    li {
+        background-color: #f9f9f9;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        margin: 10px 0;
+        padding: 15px;
+        a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        p {
+            margin: 5px 0;
+            color: #666;
+        }
+    }
+}
+
 .container {
     width: 80%;
     margin: auto;
