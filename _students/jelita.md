@@ -4,7 +4,7 @@ short_name: Jelita
 name: Jelita Anggraini
 nim: 2024573010015
 class: TI-1C
-website: https://jelita009.github.io/jelita.github.io/
+website: https://jelita009.github.io/
 ---
 ## Jelita
 Aku berasal dari Kabupaten Serdang Bedagai, dan punya latar belakang dari SMK RPL. Di kampus, aku aktif belajar tentang pemrograman dan teknologi. Aku suka membuat program yang sederhana tapi berguna.
