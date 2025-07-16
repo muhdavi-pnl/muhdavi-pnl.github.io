@@ -5,6 +5,7 @@ name: Dinda Eliza
 nim: 2024573020147
 class: TI-1D
 website: https://dindaelz06.github.io/
+---
 
 Saya Dinda Eliza, lahir di Lhokseumawe pada tanggal 14 Oktober 2004.  
 Saat ini saya sedang menempuh pendidikan di Politeknik Negeri Lhokseumawe.  
